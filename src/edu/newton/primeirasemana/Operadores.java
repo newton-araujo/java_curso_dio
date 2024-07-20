@@ -29,6 +29,13 @@ public class Operadores {
 
         System.out.println(concatenacao);
 
+        //Incremento 
+        int numero = 5; 
+        numero ++; //Incrementando mais um.
+
+        System.out.println(numero);
+
+
     }
 
     
