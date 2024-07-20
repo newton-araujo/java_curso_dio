@@ -31,11 +31,23 @@ public class Operadores {
 
         //Incremento 
         int numero = 5; 
-        numero ++; //Incrementando mais um.
 
+        numero++; //Incrementando mais um.
         System.out.println(numero);
+        
+        numero--; //Decrementa menos um.
+        System.out.println(numero); 
 
 
+        //Negação.
+        boolean variavel = true;
+
+        System.out.println(variavel);
+
+        variavel = !variavel;
+
+        System.out.println(variavel);
+        
     }
 
     
